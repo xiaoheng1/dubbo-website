@@ -12,7 +12,7 @@ weight: 2
 
 邮件列表是 Dubbo 官方推荐的讨论方式，所有与 Dubbo 相关的内容都可以在这里讨论，请点击 [issue](https://github.com/apache/dubbo/issues/1393) 了解更多关于邮件列表订阅的内容
 
-如需订阅如下邮件列表，请参考 [邮件列表订阅向导](/zh-cn/docs/developers/contributor-guide/mailing-list-subscription-guide_dev.html)
+如需订阅如下邮件列表，请参考 [邮件列表订阅向导](/zh/docs/contribution-guidelines/contributor/mailing-list-subscription-guide_dev)
 
 * dev@dubbo.apache.org：开发邮件列表，您在使用或者开发 Dubbo 的过程中遇到的任何问题，都可以在这里进行提问。
 * commits@dubbo.apache.org：所有的提交内容都会推送到这个邮件列表，如果您对 Dubbo 的进展感兴趣，可以订阅这个邮件列表。
@@ -90,7 +90,7 @@ Dubbo社区将会Review您的Pull Request，并可能提出修改意见，您可
 * 一个分支(一件事情)只提一个PR。
 * 提了PR后，如果PR有问题需要修改，可以继续在这个PR关联的分支修改提交。在PR被merge前，向这个分支继提交都会进入这个PR。
 * 如果只是想纯更新代码，可以从主仓库提PR到你fork的仓库， 源选择主仓库里的分支，目标选你fork的仓库的分支。
-* 这种方式更新代码，你fork的仓库中会多一个提交。如果以你fork的仓库中的分支为源创建分支， 这个提交纪录会被待过去并会在PR中， 所以要以主仓库的分支为源创建分支。
+* 这种方式更新代码，你fork的仓库中会多一个提交。如果以你fork的仓库中的分支为源创建分支， 这个提交纪录会被带过去并会在PR中， 所以要以主仓库的分支为源创建分支。
 * issue 认领: 在要认领的issue中回复，明确表式你将处理这个issue。这样社区的PMC和Committer会把该issue assign给你。当然认领前先看下这个issue有没有被别人认领了。
   为了方便，我们可以把认领的回复统一为: **@i will solve it@**， 当然这不是必须的。
 
