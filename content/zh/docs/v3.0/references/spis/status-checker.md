@@ -2,7 +2,7 @@
 type: docs
 title: "状态检查扩展"
 linkTitle: "状态检查扩展"
-weight: 21
+weight: 22
 ---
 
 ## 扩展说明

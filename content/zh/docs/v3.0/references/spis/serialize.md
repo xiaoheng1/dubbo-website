@@ -2,7 +2,7 @@
 type: docs
 title: "序列化扩展"
 linkTitle: "序列化扩展"
-weight: 16
+weight: 17
 ---
 
 ## 扩展说明

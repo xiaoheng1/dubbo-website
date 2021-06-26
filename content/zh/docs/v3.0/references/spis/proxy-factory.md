@@ -2,7 +2,7 @@
 type: docs
 title: "动态代理扩展"
 linkTitle: "动态代理扩展"
-weight: 12
+weight: 13
 ---
 
 ## 扩展说明

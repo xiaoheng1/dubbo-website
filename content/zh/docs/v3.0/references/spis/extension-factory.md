@@ -2,7 +2,7 @@
 type: docs
 title: "扩展点加载扩展"
 linkTitle: "扩展点加载扩展"
-weight: 11
+weight: 12
 ---
 
 ## 扩展说明

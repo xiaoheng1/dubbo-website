@@ -2,7 +2,7 @@
 type: docs
 title: "验证扩展"
 linkTitle: "验证扩展"
-weight: 25
+weight: 26
 ---
 
 ## 扩展说明

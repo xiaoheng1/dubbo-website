@@ -2,7 +2,7 @@
 type: docs
 title: "缓存扩展"
 linkTitle: "缓存扩展"
-weight: 24
+weight: 25
 ---
 
 ## 扩展说明

@@ -2,7 +2,7 @@
 type: docs
 title: "Telnet 命令扩展"
 linkTitle: "Telnet 命令扩展"
-weight: 20
+weight: 21
 ---
 
 ## 扩展说明

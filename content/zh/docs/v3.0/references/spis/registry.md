@@ -2,7 +2,7 @@
 type: docs
 title: "注册中心扩展"
 linkTitle: "注册中心扩展"
-weight: 9
+weight: 10
 ---
 
 ## 扩展说明

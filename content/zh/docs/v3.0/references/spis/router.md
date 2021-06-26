@@ -2,7 +2,7 @@
 type: docs
 title: "路由扩展"
 linkTitle: "路由扩展"
-weight: 6
+weight: 7
 ---
 
 ## 扩展说明

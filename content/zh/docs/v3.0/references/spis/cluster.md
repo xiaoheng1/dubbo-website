@@ -2,7 +2,7 @@
 type: docs
 title: "集群扩展"
 linkTitle: "集群扩展"
-weight: 5
+weight: 6
 ---
 
 ## 扩展说明

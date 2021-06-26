@@ -2,7 +2,7 @@
 type: docs
 title: "调用拦截扩展"
 linkTitle: "调用拦截扩展"
-weight: 2
+weight: 3
 ---
 
 ## 扩展说明

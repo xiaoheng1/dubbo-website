@@ -2,7 +2,7 @@
 type: docs
 title: "监控中心扩展"
 linkTitle: "监控中心扩展"
-weight: 10
+weight: 11
 ---
 
 ## 扩展说明

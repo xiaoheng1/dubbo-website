@@ -2,7 +2,7 @@
 type: docs
 title: "日志适配扩展"
 linkTitle: "日志适配扩展"
-weight: 26
+weight: 27
 ---
 
 ## 扩展说明

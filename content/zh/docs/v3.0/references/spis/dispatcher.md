@@ -2,7 +2,7 @@
 type: docs
 title: "消息派发扩展"
 linkTitle: "消息派发扩展"
-weight: 14
+weight: 15
 ---
 
 ## 扩展说明
